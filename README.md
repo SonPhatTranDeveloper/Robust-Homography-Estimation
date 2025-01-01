@@ -1,4 +1,4 @@
-# OpenCV Robust Homography Estimation
+# Robust Homography Estimation
 
 ## About
 This project demonstrates robust homography estimation using OpenCV's `findHomography` function with the RANSAC algorithm. The script estimates the homography matrix between two images based on a fixed set of corresponding points. 
